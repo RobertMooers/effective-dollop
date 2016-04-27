@@ -1,0 +1,53 @@
+Effective-Dollop Brainstorming.
+
+QML Book page 95 - Expanding the selected item in a list.
+    Can use for inventory.
+      Describe what machines can use a resource, and
+      how it is produced in detail.
+
+Use a gridview of images for buildings?
+  Buildings animate when they hit their production.
+  Each click opens up that building for upgrade/creation.
+    With a list of products producable?
+    With a list of recent uniques rolled?
+  Buildings show up as transparent when not built yet, but buildable?
+    Cover production list with VOID when not yet built.
+
+  C++ REQUIRED
+    Each object saved to and read from JSON using QML integration.
+    Inventory List with Iterator.
+    Available items list for grabbing items from.
+      Items class?
+        Name
+        Amount
+        Description
+        Production
+        Uses
+    Building Object List with Iterator.
+      first()
+      isDone()
+      next()
+
+      Building Object.
+        Name
+        Level
+        Description
+        Requirements To Build
+          Resource
+          Amount
+          Multiplier
+        produce(){
+          roll 1d6
+          Produces[6]
+            Item:Amount
+        }
+
+
+    SETTINGS
+      Music
+      Volume
+      Sound
+      Volume
+      Animation
+
+QML Timer Object sends pulse every 2 seconds to building class, which then iterates through available buildings and activates them.

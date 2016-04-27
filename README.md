@@ -1,7 +1,7 @@
 # effective-dollop
 Something about a project for CST 238 GUI. 
 
-![Project Logo](effective-dollop.png "OH YEAH, A LOGO.")
+![Project Logo](/image/effective-dollop.png "OH YEAH, A LOGO.")
 
 <b>Description:</b> An incremental game idle RPG. Tentatively: The player controls a village, balancing the automatic generation of resources by upgrading buildings and assigning villagers. After a certain setup, the village sends out heroes with their current technology levels to battle the forces of <i>evil</i>. The player then gets records of these heroes a la progress quest.
 
