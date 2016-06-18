@@ -8,6 +8,7 @@ Something about a project for CST 238 GUI.
 <b>Technologies:</b> C++, Qt, QML
 
 <b>Screenshots:</b> 
+
 ![Game Start](/image/Screenshots/Screen1.png "Early on in your village.")
 ![Things Built](/image/Screenshots/Screen2.png "Later on in the village.")
 ![Inventory](/image/Screenshots/Screen3.png "An inventory with some items.")
@@ -17,6 +18,7 @@ Something about a project for CST 238 GUI.
   1. Install Qt 5.6 
   2. Open project 
   3. Clean all, run qmake, build all, run. 
+
 
 <b>Contributor list:</b>  
 
