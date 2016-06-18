@@ -1,0 +1,189 @@
+{
+    "buildings": [
+        {
+            "amountResourceProduced": 1,
+            "amountResourceTaken": 0,
+            "amountToBuild": 3,
+            "color": "green",
+            "description": "Rummaging around in the ground for food.",
+            "icon": ":/../image/icons/acorn.png",
+            "level": 1,
+            "multiplierToBuild": 1.1299999999999999,
+            "name": "Gathering",
+            "resourceProduced": "Food",
+            "resourceTaken": "",
+            "resourceToBuild": "Villager"
+        },
+        {
+            "amountResourceProduced": 1,
+            "amountResourceTaken": 5,
+            "amountToBuild": 3,
+            "color": "green",
+            "description": "Tents for people to fill.",
+            "icon": ":/../image/icons/medieval-pavilion.png",
+            "level": 0,
+            "multiplierToBuild": 1.1100000000000001,
+            "name": "Village",
+            "resourceProduced": "Villager",
+            "resourceTaken": "Food",
+            "resourceToBuild": "Food"
+        },
+        {
+            "amountResourceProduced": 1,
+            "amountResourceTaken": 0,
+            "amountToBuild": 4,
+            "color": "green",
+            "description": "Chopping down trees.",
+            "icon": ":/../image/icons/axe-in-stump.png",
+            "level": 0,
+            "multiplierToBuild": 1.1299999999999999,
+            "name": "Chopping",
+            "resourceProduced": "Wood",
+            "resourceTaken": "",
+            "resourceToBuild": "Villager"
+        },
+        {
+            "amountResourceProduced": 4,
+            "amountResourceTaken": 1,
+            "amountToBuild": 5,
+            "color": "red",
+            "description": "Running around with spears, hoping to stumble upon food.",
+            "icon": ":/../image/icons/pikeman.png",
+            "level": 0,
+            "multiplierToBuild": 1.1399999999999999,
+            "name": "Hunting",
+            "resourceProduced": "Food",
+            "resourceTaken": "Wood",
+            "resourceToBuild": "Villager"
+        },
+        {
+            "amountResourceProduced": 2,
+            "amountResourceTaken": 0,
+            "amountToBuild": 15,
+            "color": "grey",
+            "description": "A quarry to mine stone.",
+            "icon": ":/../image/icons/stone-pile.png",
+            "level": 0,
+            "multiplierToBuild": 1.1100000000000001,
+            "name": "Quarry",
+            "resourceProduced": "Stone",
+            "resourceTaken": "",
+            "resourceToBuild": "Wood"
+        },
+        {
+            "amountResourceProduced": 1,
+            "amountResourceTaken": 1,
+            "amountToBuild": 30,
+            "color": "orange",
+            "description": "A specialized mine on a copper vein.",
+            "icon": ":/../image/icons/dig-dug.png",
+            "level": 0,
+            "multiplierToBuild": 1.1200000000000001,
+            "name": "Copper Mine",
+            "resourceProduced": "Copper Ore",
+            "resourceTaken": "Stone",
+            "resourceToBuild": "Wood"
+        },
+        {
+            "amountResourceProduced": 1,
+            "amountResourceTaken": 1,
+            "amountToBuild": 45,
+            "color": "grey",
+            "description": "A specialized mine on a copper vein.",
+            "icon": ":/../image/icons/dig-dug.png",
+            "level": 0,
+            "multiplierToBuild": 1.1200000000000001,
+            "name": "Iron Mine",
+            "resourceProduced": "Iron Ore",
+            "resourceTaken": "Stone",
+            "resourceToBuild": "Wood"
+        },
+        {
+            "amountResourceProduced": 1,
+            "amountResourceTaken": 2,
+            "amountToBuild": 30,
+            "color": "orange",
+            "description": "A smelter to turn ore into copper.",
+            "icon": ":/../image/icons/anvil.png",
+            "level": 0,
+            "multiplierToBuild": 1.1200000000000001,
+            "name": "Copper Smelter",
+            "resourceProduced": "Copper Bar",
+            "resourceTaken": "Copper Ore",
+            "resourceToBuild": "Stone"
+        },
+        {
+            "amountResourceProduced": 1,
+            "amountResourceTaken": 0,
+            "amountToBuild": 45,
+            "color": "grey",
+            "description": "A smelter to turn ore into iron.",
+            "icon": ":/../image/icons/anvil.png",
+            "level": 0,
+            "multiplierToBuild": 1.1200000000000001,
+            "name": "Iron Smelter",
+            "resourceProduced": "Iron Bar",
+            "resourceTaken": "Iron Ore",
+            "resourceToBuild": "Stone"
+        }
+    ],
+    "introText": false,
+    "invItems": [
+        {
+            "amount": 5,
+            "name": "Villager"
+        }
+    ],
+    "items": [
+        {
+            "color": "red",
+            "description": "A vilager struggling to survive.",
+            "icon": ":/../image/icons/ages.png",
+            "name": "Villager"
+        },
+        {
+            "color": "orange",
+            "description": "Some gathered or farmed food.",
+            "icon": ":/../image/icons/carrot.png",
+            "name": "Food"
+        },
+        {
+            "color": "brown",
+            "description": "A crude cut log.",
+            "icon": ":/../image/icons/log.png",
+            "name": "Wood"
+        },
+        {
+            "color": "grey",
+            "description": "A stone mined from the earth.",
+            "icon": ":/../image/icons/stone-block.png",
+            "name": "Stone"
+        },
+        {
+            "color": "orange",
+            "description": "Some raw copper, mined from the earth.",
+            "icon": ":/../image/icons/ore.png",
+            "name": "Copper Ore"
+        },
+        {
+            "color": "orange",
+            "description": "Processed Copper",
+            "icon": ":/../image/icons/metal-bar.png",
+            "name": "Copper Bar"
+        },
+        {
+            "color": "grey",
+            "description": "Some raw iron, mined from the earth.",
+            "icon": ":/../image/icons/ore.png",
+            "name": "Iron Ore"
+        },
+        {
+            "color": "grey",
+            "description": "Some raw iron, mined from the earth.",
+            "icon": ":/../image/icons/metal-bar.png",
+            "name": "Iron Bar"
+        }
+    ],
+    "musicMute": false,
+    "musicVolume": 1
+}

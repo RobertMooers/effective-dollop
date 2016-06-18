@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Button.qml</file>
+        <file>Dialog.qml</file>
+        <file>TextRect.qml</file>
+        <file>SplashScreen.qml</file>
+        <file>BulletButton.qml</file>
+        <file>TitleBar.qml</file>
+    </qresource>
+</RCC>

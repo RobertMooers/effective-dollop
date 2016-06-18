@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+	<DisplayName>Effective Dollop</DisplayName>
+	<Description>An Incremental RPG</Description>
+	<Version>1.0.0</Version>
+	<ReleaseDate>2016-06-17</ReleaseDate>
+	<Licenses>
+		<License name="The MIT License" file="LICENSE" />
+	</Licenses>
+	<Default>true</Default>
+</Package>

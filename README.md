@@ -3,28 +3,28 @@ Something about a project for CST 238 GUI.
 
 ![Project Logo](/image/effective-dollop.png "OH YEAH, A LOGO.")
 
-<b>Description:</b> An incremental game idle RPG. Tentatively: The player controls a village, balancing the automatic generation of resources by upgrading buildings and assigning villagers. After a certain setup, the village sends out heroes with their current technology levels to battle the forces of <i>evil</i>. The player then gets records of these heroes a la progress quest.
+<b>Description:</b> An incremental game idle RPG. The player controls a village, balancing the automatic generation of resources by upgrading buildings. The game can be 
 
 <b>Technologies:</b> C++, Qt, QML
 
-<b>Screenshots:</b> To be added later.
+<b>Screenshots:</b> 
+![Game Start](/image/Screenshots/Screen1.png "Early on in your village.")
+![Things Built](/image/Screenshots/Screen2.png "Later on in the village.")
+![Inventory](/image/Screenshots/Screen3.png "An inventory with some items.")
+![Settings](/image/Screenshots/Screen4.png "The settings menu.")
 
 <b>Installation Instructions: </b>
   1. Install Qt 5.6 
   2. Open project 
   3. Clean all, run qmake, build all, run. 
 
-<b>Contribution guidelines:</b> Tell me how I can help out including wanted features and code
-standards
-
-<b>Bugs and TODO List:</b><br />
-  Generate Logo.
-  Add some code. 
-
 <b>Contributor list:</b>  
 
   Robert Mooers<br />
   https://github.com/RobertMooers/
+  
+  Icons made by various authors,
+  available at http://game-icons.net/
 
 <b>Inspriations/Ideas:</b><br />
 http://progressquest.com/

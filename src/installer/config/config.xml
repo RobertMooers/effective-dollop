@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+	<Name>Effective Dollop</Name>
+	<Version>1.0.0</Version>
+	<Title>Effective Dollop Installer</Title>
+	<Publisher>Robert Mooers</Publisher>
+	<StartMenuDir>Effective Dollop</StartMenuDir>
+	<TargetDir>@HomeDir@/EffectiveDollop</TargetDir>
+</Installer>
